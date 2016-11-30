@@ -1,3 +1,4 @@
+"use strict";
 var veclib;
 (function (veclib) {
     veclib.EPSILON = 0.000001;
