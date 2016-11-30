@@ -1,0 +1,8 @@
+{
+  "name": "veclib",
+  "version": "1.0.0",
+  "description": "TypeScript fork of gl-matrix for internal use in Stardazed TX",
+  "main": "",
+  "author": "Brandon Jones, Colin MacKenzie IV, Arthur Langereis",
+  "license": "MIT"
+}
