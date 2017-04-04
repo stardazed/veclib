@@ -12,8 +12,8 @@ This is a fork of [gl-matrix](https://github.com/toji/gl-matrix), with the follo
   this time.
 
 All current and future changes are there to facilitate integration with or utility for the
-[Stardazed TX](https://github.com/stardazed/stardazed-tx/) library, not to preserve compatibility
+[Stardazed](https://github.com/stardazed/stardazed/) library, not to preserve compatibility
 with the original code or its clients.
 
-There is no support for any usage or build setup other than what is used by SDTX. It is a
-seperate, but internal module of SDTX.
+There is no support for any usage or build setup other than what is used by SD. It is a
+seperate, but internal module of SD.
