@@ -5,33 +5,22 @@
 
         "outFile": "dist/veclib.js",
         "declaration": true,
+        "sourceMap": false,
+        "removeComments": true,
+		"noEmitOnError": true,
 
-        "noEmitOnError": true,
-        "alwaysStrict": true,
-        "noImplicitAny": true,
-        "suppressImplicitAnyIndexErrors": false,
-        "noImplicitReturns": true,
-        "forceConsistentCasingInFileNames": true,
-        "noFallthroughCasesInSwitch": true,
-        "strictNullChecks": true,
-        "noImplicitThis": true,
-        "noUnusedLocals": true,
-        "noUnusedParameters": true,
+		"strict": true,
+		"noImplicitReturns": true,
+		"forceConsistentCasingInFileNames": true,
+		"noFallthroughCasesInSwitch": false,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
 
         "lib": ["es5"],
         "skipLibCheck": true,
-        "skipDefaultLibCheck": false,
-        "typeRoots": [
-            "./typings"
-        ],
-
-        "removeComments": true,
-        "sourceMap": false
+        "skipDefaultLibCheck": false
     },
     "include": [
         "src"
-    ],
-    "exclude": [
-        "src/mat4-simd.ts"
     ]
 }
