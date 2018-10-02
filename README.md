@@ -1,5 +1,12 @@
-veclib
-======
+veclib (deprecated)
+===================
+
+This repo is no longer used, an updated version of this code is now part of the
+[Stardazed Monorepo](https://github.com/stardazed/stardazed) and as an
+[NPM package](https://www.npmjs.com/package/@stardazed/vector) as well.
+
+Old Readme Contents
+-------------------
 
 This is a fork of [gl-matrix](https://github.com/toji/gl-matrix), with the following changes:
 
